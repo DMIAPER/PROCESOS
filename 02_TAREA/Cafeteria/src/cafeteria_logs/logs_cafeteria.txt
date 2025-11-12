@@ -1,0 +1,324 @@
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Inicio del turno de máquina id# 2
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Inicio del turno de máquina id# 1
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Inicio del turno de máquina id# 3
+----------------------------------------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Cliente id# 2 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Cliente id# 1 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Cliente id# 3 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:15 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:15 p. m.] - Cliente id# 4 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:15 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:16 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:16 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:16 p. m.] - Cliente id# 5 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:16 p. m.] - Cliente id# 6 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:16 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:16 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Cliente id# 7 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Cliente id# 8 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Cliente id# 9 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:19 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:19 p. m.] - Cliente id# 10 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:19 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:20 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:20 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:20 p. m.] - Cliente id# 11 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:20 p. m.] - Cliente id# 12 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:20 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:20 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Cliente id# 13 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Cliente id# 14 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Cliente id# 15 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Cliente id# 16 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Cliente id# 17 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Cliente id# 18 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Cliente id# 19 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Cliente id# 20 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Cliente id# 21 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:28 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:28 p. m.] - Cliente id# 22 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:28 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:28 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:28 p. m.] - Cliente id# 23 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:28 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:29 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:29 p. m.] - Cliente id# 24 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:29 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:29 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:29 p. m.] - Cliente id# 25 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:29 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:30 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:30 p. m.] - Cliente id# 26 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:30 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:31 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:31 p. m.] - Cliente id# 27 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:31 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:31 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:31 p. m.] - Cliente id# 28 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:31 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:32 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:32 p. m.] - Cliente id# 29 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:32 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:33 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:33 p. m.] - Cliente id# 30 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:33 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:33 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:33 p. m.] - Cliente id# 31 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:33 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:34 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:34 p. m.] - Cliente id# 32 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:34 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:35 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:35 p. m.] - Cliente id# 33 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:35 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:35 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:35 p. m.] - Cliente id# 34 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:35 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:36 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:36 p. m.] - Cliente id# 35 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:36 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:37 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:37 p. m.] - Cliente id# 36 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:37 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:37 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:37 p. m.] - Cliente id# 37 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:37 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:38 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:38 p. m.] - Cliente id# 38 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:38 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:39 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:39 p. m.] - Cliente id# 39 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:39 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:39 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:39 p. m.] - Cliente id# 40 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:39 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:40 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:40 p. m.] - Cliente id# 41 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:40 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:40 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:40 p. m.] - Cliente id# 42 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:40 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:41 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:41 p. m.] - Cliente id# 43 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:41 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Cliente id# 44 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Cliente id# 45 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Cliente id# 46 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:43 p. m.] - Se ha finalizado la preparación del pedido té.
+----------------------------------------------------------
+[domingo, 29 de diciembre de 2024, 01:34:43 p. m.] - Se ha finalizado el turno.
+Se han preparado 4 cafés.
+Se han preparado 8 tés.
+Se han preparado 4 chocolates calientes.
+----------------------------------------------------------
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Inicio del turno de máquina id# 1
+----------------------------------------------------------
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Cliente id# 3 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:16 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:16 p. m.] - Cliente id# 6 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:16 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Cliente id# 9 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:20 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:20 p. m.] - Cliente id# 12 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:20 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Cliente id# 14 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Cliente id# 18 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Cliente id# 21 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:29 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:29 p. m.] - Cliente id# 24 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:29 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:30 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:30 p. m.] - Cliente id# 26 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:30 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:32 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:32 p. m.] - Cliente id# 29 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:32 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:33 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:33 p. m.] - Cliente id# 31 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:33 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:35 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:35 p. m.] - Cliente id# 34 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:35 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:37 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:37 p. m.] - Cliente id# 37 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:37 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:39 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:39 p. m.] - Cliente id# 40 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:39 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:40 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:40 p. m.] - Cliente id# 42 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:40 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Cliente id# 44 asignado a la máquina 1
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:43 p. m.] - Se ha finalizado la preparación del pedido té.
+----------------------------------------------------------
+[domingo, 29 de diciembre de 2024, 01:34:43 p. m.] - Se ha finalizado el turno.
+Se han preparado 4 cafés.
+Se han preparado 8 tés.
+Se han preparado 4 chocolates calientes.
+----------------------------------------------------------
+[domingo, 29 de diciembre de 2024, 01:34:45 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+----------------------------------------------------------
+[domingo, 29 de diciembre de 2024, 01:34:45 p. m.] - Se ha finalizado el turno.
+Se han preparado 4 cafés.
+Se han preparado 4 tés.
+Se han preparado 7 chocolates calientes.
+----------------------------------------------------------
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Inicio del turno de máquina id# 3
+----------------------------------------------------------
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Cliente id# 1 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:16 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:16 p. m.] - Cliente id# 5 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:16 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Cliente id# 8 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:20 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:20 p. m.] - Cliente id# 11 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:20 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Cliente id# 15 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Cliente id# 17 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Cliente id# 20 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:28 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:28 p. m.] - Cliente id# 23 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:28 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:31 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:31 p. m.] - Cliente id# 27 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:31 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:33 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:33 p. m.] - Cliente id# 30 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:33 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:35 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:35 p. m.] - Cliente id# 33 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:35 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:37 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:37 p. m.] - Cliente id# 36 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:37 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:39 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:39 p. m.] - Cliente id# 39 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:39 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:41 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:41 p. m.] - Cliente id# 43 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:41 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Cliente id# 45 asignado a la máquina 3
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:45 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+----------------------------------------------------------
+[domingo, 29 de diciembre de 2024, 01:34:45 p. m.] - Se ha finalizado el turno.
+Se han preparado 4 cafés.
+Se han preparado 4 tés.
+Se han preparado 7 chocolates calientes.
+----------------------------------------------------------
+[domingo, 29 de diciembre de 2024, 01:34:45 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+----------------------------------------------------------
+[domingo, 29 de diciembre de 2024, 01:34:45 p. m.] - Se ha finalizado el turno.
+Se han preparado 6 cafés.
+Se han preparado 3 tés.
+Se han preparado 6 chocolates calientes.
+----------------------------------------------------------
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Inicio del turno de máquina id# 2
+----------------------------------------------------------
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Cliente id# 2 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:13 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:15 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:15 p. m.] - Cliente id# 4 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:15 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Cliente id# 7 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:18 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:19 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:19 p. m.] - Cliente id# 10 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:19 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Cliente id# 13 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:22 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Cliente id# 16 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:24 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Cliente id# 19 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:26 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:28 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:28 p. m.] - Cliente id# 22 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:28 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:29 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:29 p. m.] - Cliente id# 25 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:29 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:31 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:31 p. m.] - Cliente id# 28 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:31 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:34 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:34 p. m.] - Cliente id# 32 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:34 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:36 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:36 p. m.] - Cliente id# 35 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:36 p. m.] - Se ha iniciado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:38 p. m.] - Se ha finalizado la preparación del pedido café.
+[domingo, 29 de diciembre de 2024, 01:34:38 p. m.] - Cliente id# 38 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:38 p. m.] - Se ha iniciado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:40 p. m.] - Se ha finalizado la preparación del pedido té.
+[domingo, 29 de diciembre de 2024, 01:34:40 p. m.] - Cliente id# 41 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:40 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Cliente id# 46 asignado a la máquina 2
+[domingo, 29 de diciembre de 2024, 01:34:42 p. m.] - Se ha iniciado la preparación del pedido chocolate caliente.
+[domingo, 29 de diciembre de 2024, 01:34:45 p. m.] - Se ha finalizado la preparación del pedido chocolate caliente.
+----------------------------------------------------------
+[domingo, 29 de diciembre de 2024, 01:34:45 p. m.] - Se ha finalizado el turno.
+Se han preparado 6 cafés.
+Se han preparado 3 tés.
+Se han preparado 6 chocolates calientes.
+----------------------------------------------------------
