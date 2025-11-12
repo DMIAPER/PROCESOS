@@ -1,0 +1,86 @@
+<section id="contacto-section">
+    <h2>Contacto</h2>
+    <div class="contact-container">
+        
+        <div class="contact-image">
+            <img src="resource/contacto.jpg" alt="Imagen de contacto">
+        </div>
+
+    
+        <div class="contact-info">
+            <p><strong>Nombre:</strong> Diógenes Miaja Pérez</p>
+            <p><strong>Apellidos:</strong> Miaja Pérez</p>
+            <p><strong>Teléfono:</strong> +34 444 44 44 44</p>
+            <p><strong>Email:</strong> dmiaper@hotmail.com</p>
+        </div>
+    </div>
+
+    
+    <form class="contact-form">
+        <h3>Envíanos un mensaje</h3>
+        <input type="text" placeholder="Tu nombre" required>
+        <input type="email" placeholder="Tu email" required>
+        <textarea placeholder="Escribe tu mensaje..." rows="5" required></textarea>
+        <button type="submit">Enviar</button>
+    </form>
+</section>
+
+<style>
+    #contacto-section {
+        padding: 2em;
+        text-align: center;
+    }
+
+    .contact-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: flex-start;
+        margin-bottom: 2em;
+        gap: 2em;
+    }
+
+    .contact-image img {
+        width: 250px;
+        height: auto;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .contact-info {
+        max-width: 400px;
+        text-align: left;
+        font-size: 1.2em;
+    }
+
+    .contact-form {
+        max-width: 600px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+    }
+
+    .contact-form input,
+    .contact-form textarea {
+        padding: 0.8em;
+        font-size: 1em;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    .contact-form button {
+        background-color: #333;
+        color: white;
+        border: none;
+        padding: 0.8em;
+        font-size: 1em;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+    .contact-form button:hover {
+        background-color: #555;
+    }
+</style>

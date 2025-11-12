@@ -1,0 +1,48 @@
+📦 Tarea: Validación de Datos y Políticas de Seguridad
+📖 Descripción del Problema:
+La tarea de la unidad está dividida en dos actividades:
+
+Actividad 6.1
+Crea una aplicación en Java que realice los siguientes pasos:
+Solicita el nombre del usuario que va a utilizar la aplicación. El login tiene una longitud de 8 caracteres y está compuesto únicamente por letras minúsculas.
+Solicita al usuario el nombre de un fichero que quiere mostrar. El nombre del fichero es como máximo de 8 caracteres y tiene una extensión de 3 caracteres.
+Visualiza en pantalla el contenido del fichero.
+Realiza una validación exhaustiva de los datos de entrada.
+Lleva un registro (log) de la actividad del programa.
+Actividad 6.2
+Utilizando la aplicación desarrollada en la actividad anterior, configura las políticas de acceso para:
+Firmar digitalmente la aplicación.
+📊 Criterios de Calificación: Total 10 puntos
+Actividad 6.1: 5 puntos
+Actividad 6.2: 5 puntos
+🧰 Recursos necesarios
+Entorno de desarrollo Java (por ejemplo, Eclipse).
+✨ Consejos y Recomendaciones
+Lee detenidamente el contenido de la unidad antes de comenzar.
+Valida siempre las entradas del usuario.
+Incluye trazas de depuración o registros de actividad (log).
+Utiliza herramientas disponibles para firmar digitalmente la aplicación.
+🛠️ Indicaciones de entrega
+Debes entregar un fichero comprimido (.zip) que contenga:
+Explicaciones breves de cómo has realizado las actividades.
+Capturas de pantalla que estimes oportunas.
+El o los proyectos desarrollados.
+Un documento (ODT, DOCX o PDF) con:
+El archivo comprimido debe seguir esta nomenclatura:
+PSP06_TareaXX_apellido1_apellido2_nombre.zip
+
+Ejemplo: sanchez_manas_begona_PSP06_Tarea.zip
+
+No utilices la letra ñ, tildes ni caracteres especiales en el nombre del archivo.
+Realiza el envío a través de la plataforma.
+🔧 Resultados de aprendizaje y criterios de evaluación
+Protege las aplicaciones y los datos definiendo y aplicando criterios de seguridad en el acceso, almacenamiento y transmisión de la información
+
+a) Se han identificado y aplicado principios y prácticas de programación segura.
+b) Se han analizado las principales técnicas y prácticas criptográficas.
+c) Se han definido e implantado políticas de seguridad para limitar y controlar el acceso de los usuarios a las aplicaciones desarrolladas.
+d) Se han utilizado esquemas de seguridad basados en roles.
+e) Se han empleado algoritmos criptográficos para proteger el acceso a la información almacenada.
+f) Se han identificado métodos para asegurar la información transmitida.
+g) Se han desarrollado aplicaciones que utilicen sockets seguros para la transmisión de información.
+h) Se han depurado y documentado las aplicaciones desarrolladas. 

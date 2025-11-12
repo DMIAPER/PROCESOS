@@ -1,0 +1,76 @@
+may 07, 2025 6:17:20 P. M. validacion.Registros configurarLogger
+INFO: Sistema de logging configurado correctamente
+may 07, 2025 6:19:27 P. M. validacion.Registros warningLog
+WARNING: ADVERTENCIA: Intento de usuario inválido: Diogenes
+may 07, 2025 6:20:49 P. M. validacion.Registros registroLog
+INFO: Usuario válido: diogenes
+may 07, 2025 6:22:37 P. M. validacion.Registros registroLog
+INFO: Verificando archivo en: C:\00-PROGRAMACION\PSP\TAREAS\Tarea_6\Validacion\src\documentos\archivosdelatarea.txt
+may 07, 2025 6:22:37 P. M. validacion.Registros warningLog
+WARNING: ADVERTENCIA: El archivo no existe: C:\00-PROGRAMACION\PSP\TAREAS\Tarea_6\Validacion\src\documentos\archivosdelatarea.txt
+may 07, 2025 6:22:37 P. M. validacion.Registros warningLog
+WARNING: ADVERTENCIA: Intento de archivo inválido: archivosdelatarea.txt
+may 07, 2025 6:37:58 P. M. validacion.Registros configurarLogger
+INFO: Sistema de logging configurado correctamente
+may 07, 2025 6:38:02 P. M. validacion.Registros registroLog
+INFO: Usuario válido: diogenes
+may 07, 2025 6:38:12 P. M. validacion.Registros registroLog
+INFO: Verificando archivo en: C:\00-PROGRAMACION\PSP\TAREAS\Tarea_6\Validacion\src\documentos\archivospara.txt
+may 07, 2025 6:38:12 P. M. validacion.Registros warningLog
+WARNING: ADVERTENCIA: El archivo no existe: C:\00-PROGRAMACION\PSP\TAREAS\Tarea_6\Validacion\src\documentos\archivospara.txt
+may 07, 2025 6:38:12 P. M. validacion.Registros warningLog
+WARNING: ADVERTENCIA: Intento de archivo inválido: archivospara.txt
+may 07, 2025 6:42:00 P. M. validacion.Registros configurarLogger
+INFO: Sistema de logging configurado correctamente
+may 07, 2025 6:42:05 P. M. validacion.Registros registroLog
+INFO: Usuario válido: diogenes
+may 07, 2025 6:42:08 P. M. validacion.Registros registroLog
+INFO: Verificando archivo en: c:\00-PROGRAMACION\PSP\TAREAS\Tarea_6\Validacion\src\documentos\archivospara.txt
+may 07, 2025 6:42:08 P. M. validacion.Registros warningLog
+WARNING: ADVERTENCIA: El archivo no existe: c:\00-PROGRAMACION\PSP\TAREAS\Tarea_6\Validacion\src\documentos\archivospara.txt
+may 07, 2025 6:42:08 P. M. validacion.Registros warningLog
+WARNING: ADVERTENCIA: Intento de archivo inválido: archivospara.txt
+may 07, 2025 6:43:27 P. M. validacion.Registros configurarLogger
+INFO: Sistema de logging configurado correctamente
+may 07, 2025 6:43:36 P. M. validacion.Registros registroLog
+INFO: Usuario válido: diogenes
+may 07, 2025 6:43:53 P. M. validacion.Registros registroLog
+INFO: Verificando archivo en: C:\00-PROGRAMACION\PSP\TAREAS\Tarea_6\Validacion\src\documentos\diogenesde
+may 07, 2025 6:43:53 P. M. validacion.Registros warningLog
+WARNING: ADVERTENCIA: El archivo no existe: C:\00-PROGRAMACION\PSP\TAREAS\Tarea_6\Validacion\src\documentos\diogenesde
+may 07, 2025 6:43:53 P. M. validacion.Registros warningLog
+WARNING: ADVERTENCIA: Intento de archivo inválido: diogenesde
+may 07, 2025 6:44:50 P. M. validacion.Registros configurarLogger
+INFO: Sistema de logging configurado correctamente
+may 07, 2025 6:45:29 P. M. validacion.Registros registroLog
+INFO: Usuario válido: diogenes
+may 07, 2025 6:45:32 P. M. validacion.Registros warningLog
+WARNING: ADVERTENCIA: Intento de archivo inválido: diogenesde
+may 07, 2025 6:45:42 P. M. validacion.Registros registroLog
+INFO: Verificando archivo en: c:\00-PROGRAMACION\PSP\TAREAS\Tarea_6\Validacion\src\documentos\diogenes.txt
+may 07, 2025 6:45:42 P. M. validacion.Registros warningLog
+WARNING: ADVERTENCIA: El archivo no existe: c:\00-PROGRAMACION\PSP\TAREAS\Tarea_6\Validacion\src\documentos\diogenes.txt
+may 07, 2025 6:45:42 P. M. validacion.Registros warningLog
+WARNING: ADVERTENCIA: Intento de archivo inválido: diogenes.txt
+may 07, 2025 6:47:12 P. M. validacion.Registros configurarLogger
+INFO: Sistema de logging configurado correctamente
+may 07, 2025 6:47:31 P. M. validacion.Registros registroLog
+INFO: Usuario válido: diogenes
+may 07, 2025 6:47:37 P. M. validacion.Registros warningLog
+WARNING: ADVERTENCIA: Intento de archivo inválido: smi
+may 07, 2025 6:48:22 P. M. validacion.Registros warningLog
+WARNING: ADVERTENCIA: Intento de archivo inválido: demandade
+may 07, 2025 6:48:28 P. M. validacion.Registros warningLog
+WARNING: ADVERTENCIA: Intento de archivo inválido: demandade.txt
+may 07, 2025 6:50:23 P. M. validacion.Registros registroLog
+INFO: Verificando archivo en: C:\00-PROGRAMACION\PSP\TAREAS\Tarea_6\Validacion\src\documentos\tarea6.txt
+may 07, 2025 6:50:23 P. M. validacion.Registros registroLog
+INFO: El archivo es accesible: tarea6.txt
+may 07, 2025 6:50:23 P. M. validacion.Registros registroLog
+INFO: Nombre de archivo válido: tarea6.txt
+may 07, 2025 6:50:23 P. M. validacion.Registros registroLog
+INFO: Archivo leído correctamente: tarea6.txt
+may 07, 2025 8:42:18 P.Â M. validacion.Registros configurarLogger
+INFO: Sistema de logging configurado correctamente
+may 07, 2025 8:42:20 P.Â M. validacion.Registros configurarLogger
+INFO: Sistema de logging configurado correctamente

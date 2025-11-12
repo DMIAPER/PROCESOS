@@ -1,0 +1,1 @@
+from .filosofos import Filosofo

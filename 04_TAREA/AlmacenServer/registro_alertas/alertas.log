@@ -1,0 +1,259 @@
+----------------------------------------------------------
+[viernes, 04 de abril de 2025, 20:47:00 ] - Inicio del servidor en el puerto, 5000
+----------------------------------------------------------
+----------------------------------------------------------
+[viernes, 04 de abril de 2025, 20:48:35 ] - Inicio del servidor en el puerto, 5000
+----------------------------------------------------------
+----------------------------------------------------------
+[viernes, 04 de abril de 2025, 20:49:04 ] - Inicio del servidor en el puerto, 5000
+----------------------------------------------------------
+----------------------------------------------------------
+[viernes, 04 de abril de 2025, 20:49:32 ] - Inicio del servidor en el puerto, 5000
+----------------------------------------------------------
+[viernes, 04 de abril de 2025, 20:49:40 ] - Almacén almacenIP:_/127.0.0.1_54721se ha conectado.
+[viernes, 04 de abril de 2025, 20:49:40 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54721 - Producto solicitado: IPhone 26 - Cantidad solicitada: 19 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:49:40 ] - Almacén almacenIP:_/127.0.0.1_54723se ha conectado.
+[viernes, 04 de abril de 2025, 20:49:40 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54723 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 18 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:49:41 ] - Almacén almacenIP:_/127.0.0.1_54725se ha conectado.
+[viernes, 04 de abril de 2025, 20:49:41 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54725 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 59 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:49:45 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54721 - Producto solicitado: Huawei P25 - Cantidad solicitada: 9 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:49:47 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54723 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 20 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:49:47 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54725 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 22 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:49:55 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54723 - Producto solicitado: IPhone 26 - Cantidad solicitada: 12 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:49:55 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54725 - Producto solicitado: IPhone 26 - Cantidad solicitada: 53 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:49:55 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54721 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 25 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:50:02 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54723 - Producto solicitado: Huawei P25 - Cantidad solicitada: 21 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:50:03 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54721 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 47 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:50:04 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54725 - Producto solicitado: Huawei P25 - Cantidad solicitada: 35 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:50:08 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54723 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 9 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:50:10 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54721 - Producto solicitado: IPhone 26 - Cantidad solicitada: 48 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:50:12 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54725 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 34 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:50:17 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54723 - Producto solicitado: IPhone 26 - Cantidad solicitada: 21 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:50:19 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54721 - Producto solicitado: Huawei P25 - Cantidad solicitada: 2 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:50:21 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54725 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 2 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:50:24 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54721 - Producto solicitado: Huawei P25 - Cantidad solicitada: 5 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:50:26 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54723 - Producto solicitado: IPhone 26 - Cantidad solicitada: 20 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:50:31 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54721 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 58 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:50:31 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54725 - Producto solicitado: IPhone 26 - Cantidad solicitada: 51 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:50:34 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54723 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 48 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:50:38 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54725 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 12 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:50:40 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54721 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 23 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:50:42 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54723 - Producto solicitado: Huawei P25 - Cantidad solicitada: 16 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:50:46 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54725 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 38 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:50:49 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54721 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 42 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:50:50 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54723 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 27 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:50:53 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54725 - Producto solicitado: IPhone 26 - Cantidad solicitada: 25 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:50:58 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54721 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 24 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:50:58 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54725 - Producto solicitado: IPhone 26 - Cantidad solicitada: 14 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:50:58 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54723 - Producto solicitado: Huawei P25 - Cantidad solicitada: 42 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:51:03 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54721 - Producto solicitado: IPhone 26 - Cantidad solicitada: 32 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:51:05 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54725 - Producto solicitado: Huawei P25 - Cantidad solicitada: 39 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:51:08 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54723 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 20 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:51:11 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54725 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 58 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:51:11 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54721 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 31 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:51:15 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54723 - Producto solicitado: IPhone 26 - Cantidad solicitada: 48 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:51:17 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54721 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 51 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:51:18 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54725 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 59 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:51:22 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54723 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 14 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:51:22 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54721 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 22 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:51:27 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54725 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 25 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:51:31 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54723 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 6 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:51:32 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54721 - Producto solicitado: IPhone 26 - Cantidad solicitada: 31 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:51:33 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54725 - Producto solicitado: IPhone 26 - Cantidad solicitada: 3 - ACEPTADO
+----------------------------------------------------------
+[viernes, 04 de abril de 2025, 20:51:37 ] - Inicio del servidor en el puerto, 5000
+----------------------------------------------------------
+[viernes, 04 de abril de 2025, 20:51:52 ] - Almacén almacenIP:_/127.0.0.1_54742se ha conectado.
+[viernes, 04 de abril de 2025, 20:51:52 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 9 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:51:56 ] - Almacén almacenIP:_/127.0.0.1_54746se ha conectado.
+[viernes, 04 de abril de 2025, 20:51:56 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Huawei P25 - Cantidad solicitada: 54 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:51:57 ] - Almacén almacenIP:_/127.0.0.1_54747se ha conectado.
+[viernes, 04 de abril de 2025, 20:51:57 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Huawei P25 - Cantidad solicitada: 38 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:52:01 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 32 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:03 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 32 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:05 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 54 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:08 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 - Cantidad solicitada: 18 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:10 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 3 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:14 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Huawei P25 - Cantidad solicitada: 41 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:52:16 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 26 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:18 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Huawei P25 - Cantidad solicitada: 6 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:20 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 18 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:23 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 58 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:27 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 18 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:52:27 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 31 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:29 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 - Cantidad solicitada: 44 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:52:34 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 51 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:36 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 60 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:52:38 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 - Cantidad solicitada: 1 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:40 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 27 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:43 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 13 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:47 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 30 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:47 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 - Cantidad solicitada: 1 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:48 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 28 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:52:54 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 35 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:52:55 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Huawei P25 - Cantidad solicitada: 60 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:52:55 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Huawei P25 - Cantidad solicitada: 48 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:01 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 43 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:53:02 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 34 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:53:02 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 27 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:08 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 18 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:09 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Huawei P25 - Cantidad solicitada: 40 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:10 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 47 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:13 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 1 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:53:16 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 55 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:53:18 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 28 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:20 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 41 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:53:21 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 - Cantidad solicitada: 53 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:24 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 50 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:27 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 1 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:53:28 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Huawei P25 - Cantidad solicitada: 40 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:31 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 15 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:53:35 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Huawei P25 - Cantidad solicitada: 29 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:35 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Huawei P25 - Cantidad solicitada: 57 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:38 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 22 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:40 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 - Cantidad solicitada: 16 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:42 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 13 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:53:45 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 38 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:53:48 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 44 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:50 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 50 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:53:51 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 - Cantidad solicitada: 54 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:54 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 25 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:56 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 37 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:53:59 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 58 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:03 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 56 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:54:05 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 54 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:07 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 14 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:10 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 6 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:54:13 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 53 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:13 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 56 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:19 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 - Cantidad solicitada: 54 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:22 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 - Cantidad solicitada: 55 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:22 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 33 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:24 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 49 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:29 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Huawei P25 - Cantidad solicitada: 4 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:54:30 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 49 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:54:31 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 42 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:35 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 54 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:36 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 40 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:39 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 22 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:42 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 59 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:44 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 - Cantidad solicitada: 59 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:47 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 56 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:48 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 60 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:54 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Huawei P25 - Cantidad solicitada: 6 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:54:55 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 55 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:54:57 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Huawei P25 - Cantidad solicitada: 13 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:00 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 14 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:55:04 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 - Cantidad solicitada: 45 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:05 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 18 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:55:06 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 53 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:09 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Huawei P25 - Cantidad solicitada: 3 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:11 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 47 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:16 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 15 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:55:18 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 15 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:55:18 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 - Cantidad solicitada: 57 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:24 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 36 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:24 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 7 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:27 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 59 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:29 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Huawei P25 - Cantidad solicitada: 15 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:32 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 22 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:35 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Huawei P25 - Cantidad solicitada: 51 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:39 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 27 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:55:40 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Huawei P25 - Cantidad solicitada: 46 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:42 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 40 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:45 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 15 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:48 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 50 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:55:49 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 32 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:55 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 48 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:55 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 - Cantidad solicitada: 41 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:55:55 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 31 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:56:00 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Huawei P25 - Cantidad solicitada: 45 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:56:01 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 30 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:56:03 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 - Cantidad solicitada: 54 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:56:07 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 18 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:56:09 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Huawei P25 - Cantidad solicitada: 22 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:56:10 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 52 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:56:14 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 26 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:56:15 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Huawei P25 - Cantidad solicitada: 36 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:56:18 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 - Cantidad solicitada: 21 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:56:21 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 35 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:56:22 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 34 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:56:25 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 35 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:56:29 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 42 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:56:32 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 57 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:56:33 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 4 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:56:37 ] - Almacén almacenIP:_/127.0.0.1_54746 Su pedido no se puede realizar porque no existe el producto solicitado.
+[viernes, 04 de abril de 2025, 20:56:38 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 15 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:56:39 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Huawei P25 - Cantidad solicitada: 24 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:56:45 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: PlayStation 5 - Cantidad solicitada: 35 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:56:46 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Huawei P25 - Cantidad solicitada: 17 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:56:49 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Huawei P25 - Cantidad solicitada: 13 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:56:51 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 - Cantidad solicitada: 23 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:56:53 ] - Almacén almacenIP:_/127.0.0.1_54746 Su pedido no se puede realizar porque no existe el producto solicitado.
+[viernes, 04 de abril de 2025, 20:56:58 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Huawei P25 - Cantidad solicitada: 26 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:57:00 ] - Almacén almacenIP:_/127.0.0.1_54746 Su pedido no se puede realizar porque no existe el producto solicitado.
+[viernes, 04 de abril de 2025, 20:57:00 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: IPhone 26 - Cantidad solicitada: 28 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:57:04 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 38 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:57:07 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 36 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:57:07 ] - Almacén almacenIP:_/127.0.0.1_54746 Su pedido no se puede realizar porque no existe el producto solicitado.
+[viernes, 04 de abril de 2025, 20:57:11 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Huawei P25 - Cantidad solicitada: 38 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:57:14 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54742 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 14 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:57:17 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 44 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:57:21 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 15 - RECHAZADO (Stock insuficiente)
+Error de proceso: viernes, 04 de abril de 2025, 20:57:21  Error en el hilo del cliente almacenIP:_/127.0.0.1_54742: ->Connection reset
+[viernes, 04 de abril de 2025, 20:57:25 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 19 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:57:30 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Huawei P25 - Cantidad solicitada: 27 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:57:35 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 1 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:57:36 ] - Almacén almacenIP:_/127.0.0.1_54747 Su pedido no se puede realizar porque no existe el producto solicitado.
+[viernes, 04 de abril de 2025, 20:57:43 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 32 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:57:46 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: PlayStation 5 - Cantidad solicitada: 15 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:57:50 ] - Almacén almacenIP:_/127.0.0.1_54746 Su pedido no se puede realizar porque no existe el producto solicitado.
+[viernes, 04 de abril de 2025, 20:57:52 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: PlayStation 5 - Cantidad solicitada: 35 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:57:58 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 30 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:58:02 ] - Almacén almacenIP:_/127.0.0.1_54747 Su pedido no se puede realizar porque no existe el producto solicitado.
+[viernes, 04 de abril de 2025, 20:58:07 ] - Almacén almacenIP:_/127.0.0.1_54746 Su pedido no se puede realizar porque no existe el producto solicitado.
+[viernes, 04 de abril de 2025, 20:58:09 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 6 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:58:14 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 26 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:58:17 ] - Almacén almacenIP:_/127.0.0.1_54747 Su pedido no se puede realizar porque no existe el producto solicitado.
+[viernes, 04 de abril de 2025, 20:58:22 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 7 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:58:23 ] - Almacén almacenIP:_/127.0.0.1_54746 Su pedido no se puede realizar porque no existe el producto solicitado.
+[viernes, 04 de abril de 2025, 20:58:29 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Huawei P25 - Cantidad solicitada: 59 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:58:33 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 21 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:58:34 ] - Almacén almacenIP:_/127.0.0.1_54747 Su pedido no se puede realizar porque no existe el producto solicitado.
+[viernes, 04 de abril de 2025, 20:58:39 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 1 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:58:41 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 30 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:58:46 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 48 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:58:47 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 40 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:58:53 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 12 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:58:54 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 23 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:59:02 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 54 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:59:02 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 45 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:59:10 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 2 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:59:12 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Huawei P25 - Cantidad solicitada: 59 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:59:18 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: PlayStation 5 - Cantidad solicitada: 42 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:59:20 ] - Almacén almacenIP:_/127.0.0.1_54746 Su pedido no se puede realizar porque no existe el producto solicitado.
+[viernes, 04 de abril de 2025, 20:59:24 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: PlayStation 5 - Cantidad solicitada: 21 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:59:25 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Huawei P25 - Cantidad solicitada: 8 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:59:30 ] - Almacén almacenIP:_/127.0.0.1_54747 Su pedido no se puede realizar porque no existe el producto solicitado.
+[viernes, 04 de abril de 2025, 20:59:32 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 46 - ACEPTADO
+[viernes, 04 de abril de 2025, 20:59:37 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 19 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:59:38 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 30 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:59:45 ] - Almacén almacenIP:_/127.0.0.1_54746 Su pedido no se puede realizar porque no existe el producto solicitado.
+[viernes, 04 de abril de 2025, 20:59:46 ] - Almacén almacenIP:_/127.0.0.1_54747 Su pedido no se puede realizar porque no existe el producto solicitado.
+[viernes, 04 de abril de 2025, 20:59:51 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 pro - Cantidad solicitada: 42 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:59:51 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: PlayStation 5 - Cantidad solicitada: 54 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 20:59:59 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 44 - ACEPTADO
+[viernes, 04 de abril de 2025, 21:00:00 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: PlayStation 5 - Cantidad solicitada: 20 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 21:00:07 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: PlayStation 5 - Cantidad solicitada: 51 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 21:00:09 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: PlayStation 5 - Cantidad solicitada: 34 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 21:00:14 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Xiaomi 15 pro - Cantidad solicitada: 59 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 21:00:19 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: IPhone 26 - Cantidad solicitada: 54 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 21:00:20 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: IPhone 26 - Cantidad solicitada: 35 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 21:00:25 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Huawei P25 - Cantidad solicitada: 54 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 21:00:30 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 14 - ACEPTADO
+[viernes, 04 de abril de 2025, 21:00:34 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54746 - Producto solicitado: Samsung Galaxi 21 - Cantidad solicitada: 43 - ACEPTADO
+[viernes, 04 de abril de 2025, 21:00:36 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: PlayStation 5 - Cantidad solicitada: 34 - RECHAZADO (Stock insuficiente)
+[viernes, 04 de abril de 2025, 21:00:40 ] - Almacén almacenIP:_/127.0.0.1_54746 Su pedido no se puede realizar porque no existe el producto solicitado.
+[viernes, 04 de abril de 2025, 21:00:43 ] Pedido realizado por Almacén:  almacenIP:_/127.0.0.1_54747 - Producto solicitado: Huawei P25 - Cantidad solicitada: 11 - RECHAZADO (Stock insuficiente)
+Error de proceso: viernes, 04 de abril de 2025, 21:00:47  Error en el hilo del cliente almacenIP:_/127.0.0.1_54747: ->Connection reset
+Error de proceso: viernes, 04 de abril de 2025, 21:00:47  Error en el hilo del cliente almacenIP:_/127.0.0.1_54746: ->Connection reset
